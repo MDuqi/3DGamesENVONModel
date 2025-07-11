@@ -4185,7 +4185,7 @@
         <DGamesENVONModel:hasColor rdf:resource="http://www.semanticweb.org/matheusduque/2025/3DGamesENVONModel#Red"/>
         <DGamesENVONModel:hasLocation rdf:resource="http://www.semanticweb.org/matheusduque/2025/3DGamesENVONModel#Room2"/>
         <DGamesENVONModel:hasStandardForm rdf:resource="http://www.semanticweb.org/matheusduque/2025/3DGamesENVONModel#Enemy1_Hitbox"/>
-        <DGamesENVONModel:attackRadius rdf:datatype="http://www.w3.org/2001/XMLSchema#double">10.0</DGamesENVONModel:attackRadius>
+        <DGamesENVONModel:attackRadius rdf:datatype="http://www.w3.org/2001/XMLSchema#double">3.0</DGamesENVONModel:attackRadius>
     </owl:NamedIndividual>
     
 
